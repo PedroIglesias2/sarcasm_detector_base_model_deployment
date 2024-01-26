@@ -1,0 +1,10 @@
+name: mlops-dev
+channels:
+  - defaults
+dependencies:
+  - python=3.10.12
+  - ipykernel
+  - scikit-learn
+  - pandas
+  - jupyterlab
+prefix: C:\Users\peter\miniconda3\envs\mlops-dev
